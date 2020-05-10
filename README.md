@@ -10,3 +10,5 @@ applications / tests without having to worry about installing dependencies on
 their local machines
 
 Pre-requisite for your system for using REPL:Git must be installed in your PC. To install it, visit : https://www.atlassian.com/git/tutorials/install-git 
+ 
+ In a while or two, you must try new dev environments provided ;P
