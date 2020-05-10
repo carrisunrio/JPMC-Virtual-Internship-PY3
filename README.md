@@ -2,7 +2,7 @@
 
 This repository contains the submitted patch files of the various tasks assigned by JPMorgan Chase & Co. Software Engineering Virtual Internship
 
-##The first task as performed in Repl.it itself...
+## The first task is performed in Repl.it itself...
 To know more about it : 
 
 REPL is an online coding platform that developers can use to run simulated
